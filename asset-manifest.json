@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GrygoriyZhurylo/ToDo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/GrygoriyZhurylo/ToDo/static/js/main.2df3fde6.chunk.js",
-    "main.js.map": "/GrygoriyZhurylo/ToDo/static/js/main.2df3fde6.chunk.js.map",
-    "runtime-main.js": "/GrygoriyZhurylo/ToDo/static/js/runtime-main.19cb850c.js",
-    "runtime-main.js.map": "/GrygoriyZhurylo/ToDo/static/js/runtime-main.19cb850c.js.map",
-    "static/js/2.efd0829f.chunk.js": "/GrygoriyZhurylo/ToDo/static/js/2.efd0829f.chunk.js",
-    "static/js/2.efd0829f.chunk.js.map": "/GrygoriyZhurylo/ToDo/static/js/2.efd0829f.chunk.js.map",
-    "index.html": "/GrygoriyZhurylo/ToDo/index.html",
-    "precache-manifest.5eae2602724611b95d0e750e9cda1b84.js": "/GrygoriyZhurylo/ToDo/precache-manifest.5eae2602724611b95d0e750e9cda1b84.js",
-    "service-worker.js": "/GrygoriyZhurylo/ToDo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/GrygoriyZhurylo/ToDo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.efd0829f.chunk.js.LICENSE.txt": "/GrygoriyZhurylo/ToDo/static/js/2.efd0829f.chunk.js.LICENSE.txt"
+    "main.css": "/grygoriyzhurylo/ToDo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/grygoriyzhurylo/ToDo/static/js/main.73fcf4e4.chunk.js",
+    "main.js.map": "/grygoriyzhurylo/ToDo/static/js/main.73fcf4e4.chunk.js.map",
+    "runtime-main.js": "/grygoriyzhurylo/ToDo/static/js/runtime-main.b1ad3d26.js",
+    "runtime-main.js.map": "/grygoriyzhurylo/ToDo/static/js/runtime-main.b1ad3d26.js.map",
+    "static/js/2.efd0829f.chunk.js": "/grygoriyzhurylo/ToDo/static/js/2.efd0829f.chunk.js",
+    "static/js/2.efd0829f.chunk.js.map": "/grygoriyzhurylo/ToDo/static/js/2.efd0829f.chunk.js.map",
+    "index.html": "/grygoriyzhurylo/ToDo/index.html",
+    "precache-manifest.f6b3d6b00c4da633caa6a7ffe0227b78.js": "/grygoriyzhurylo/ToDo/precache-manifest.f6b3d6b00c4da633caa6a7ffe0227b78.js",
+    "service-worker.js": "/grygoriyzhurylo/ToDo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/grygoriyzhurylo/ToDo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.efd0829f.chunk.js.LICENSE.txt": "/grygoriyzhurylo/ToDo/static/js/2.efd0829f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19cb850c.js",
+    "static/js/runtime-main.b1ad3d26.js",
     "static/js/2.efd0829f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2df3fde6.chunk.js"
+    "static/js/main.73fcf4e4.chunk.js"
   ]
 }
