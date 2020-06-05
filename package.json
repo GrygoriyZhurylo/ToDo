@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/GrygoriyZhurylo/ToDoList/tree/master/pro/june1",
+  "homepage": "https://github.com/GrygoriyZhurylo/ToDo",
   "name": "june1",
   "version": "0.1.0",
   "private": true,
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
   }
 }
